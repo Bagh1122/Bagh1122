@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bagh1122
+- 👋 Hi, I’m Ahmed Kamal
 - 👀 I’m interested in github
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on it
